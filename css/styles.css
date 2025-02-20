@@ -111,13 +111,13 @@ body {
 }
 .main .content .banner .headintro .title {
   margin-top: 90px;
-  color: #d44950;
+  color: #efb7ba;
   font-size: 8rem;
   text-shadow: 1px 1px #efefef, 3px 3px #ffc0cb;
 }
 .main .content .banner .headintro .subtitle {
   font-size: 24px;
-  color: #666;
+  color: #e6a5bd;
 }
 @media (max-width: 991px) {
   .main .content .archive .year {
@@ -158,7 +158,7 @@ body {
   .main .content .banner .headintro .title {
     margin-top: 70px;
     font-size: 3rem;
-    text-shadow: 1px 1px #efefef, 2px 2px #ffc0cb;
+    text-shadow: 1px 1px #fafafb, 2px 2px #e5c0c8;
   }
 }
 .header.out {
@@ -460,7 +460,7 @@ body {
 .posts .post-meta .post-time {
   position: absolute;
   transform: rotate(10deg);
-  color: #194f92;
+  color: #e6a5bd;
   top: 50%;
   left: 50%;
   margin-top: -13px;
